@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adherooban
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Devops
-- I'm currently working as Linux Admin in TCS
+- I'm currently working as Tech Architecture Analyst in Accenture
 - 💞️ I’m looking to collaborate on Devops based project in MNC
 - 📫 How to reach me adheroobanIt@gmail.com
 
